@@ -9,6 +9,7 @@ This is the only .py file you need to submit.
     If you want to show an image for debugging, please use show_image() function in helper.py.
     Please do not save any intermediate files in your final submission.
 '''
+#author:Pruthvi Omkar Geedh
 from helper import show_image
 import cv2
 import numpy as np
