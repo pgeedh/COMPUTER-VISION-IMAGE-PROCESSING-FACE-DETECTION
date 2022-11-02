@@ -1,7 +1,7 @@
 '''
 Please do NOT make any changes to this file.
 '''
-
+#author:Pruthvi Omkar Geedh
 import cv2
 
 def show_image(img, delay=1000):
