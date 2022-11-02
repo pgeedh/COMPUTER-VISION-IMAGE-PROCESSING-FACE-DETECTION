@@ -1,8 +1,8 @@
 '''
 Please do NOT make any changes to this file.
 '''
-
-from UBFaceDetector import cluster_faces
+#Author:Pruthvi Omkar Geedh
+from FaceDetector1 import cluster_faces
 import cv2
 import numpy as np
 import argparse
