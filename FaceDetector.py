@@ -1,8 +1,8 @@
 '''
 Please do NOT make any changes to this file.
 '''
-
-from UBFaceDetector import detect_faces
+#author: Pruthvi Omkar Geedh
+from FaceDetector1 import detect_faces
 import cv2
 import numpy as np
 import argparse
